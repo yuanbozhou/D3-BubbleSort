@@ -2,25 +2,32 @@
 
 
 # 1.视频展示
+动态柱状图 - Google Chrom
 
+冒泡排序 - Google Chrome
+
+Total - Google Chrome
 ![mp4_download](https://github.com/yuanbozhou/D3-Interaction/blob/master/%E7%A8%8B%E5%BA%8F%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4)
+
 # 2.页面展示
-    2.1 柱状图效果实现（文件work3_DynamicRect）
-
-![image](界面展示1.PNG)
-
+    2.1 柱状图效果（文件work3_DynamicRect）
+            
     2.2 冒泡排序实现（文件work3_BubbleSort）
 
 ![image](界面展示2.PNG)
     ![image](界面展示3.PNG)
 
     2.3 添加一些小功能（文件work3_AddButton）
-
+![image](界面展示7.PNG)
 
 
     2.4 综合视图（文件work3_Total）
-
+    可以自由切换排序前（old排序）和排序后（new排序）
+    可以自由切换颜色
 ![image](界面展示4.PNG)
+![image](界面展示5.PNG)
+![image](界面展示6.PNG)
+
 
 # 3.总文件test里不同类型文件的介绍
 # css
