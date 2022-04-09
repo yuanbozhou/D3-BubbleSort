@@ -1,13 +1,12 @@
-# D3-BubbleSort
+# D3-BubbleSort 用D3简单实现了一个冒泡排序
 
 
 # 1.视频展示
-动态柱状图 - Google Chrom
+    
+![冒泡排序](https://github.com/yuanbozhou/D3-BubbleSort/blob/bd880d0ffe67ce8fafa6636d0885b57cb21fea42/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F%20-%20Google%20Chrome%202022-04-09%2013-46-29.mp4)
 
-冒泡排序 - Google Chrome
+![Total](https://github.com/yuanbozhou/D3-BubbleSort/blob/bd880d0ffe67ce8fafa6636d0885b57cb21fea42/Total%20-%20Google%20Chrome%202022-04-09%2013-49-25.mp4)
 
-Total - Google Chrome
-![mp4_download](https://github.com/yuanbozhou/D3-Interaction/blob/master/%E7%A8%8B%E5%BA%8F%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4)
 
 # 2.页面展示
     2.1 柱状图效果（文件work3_DynamicRect）
@@ -29,16 +28,10 @@ Total - Google Chrome
 ![image](界面展示6.PNG)
 
 
-# 3.总文件test里不同类型文件的介绍
-# css
-页面布局文件
-# js
-d3需要引用一些js文件
-# py
-爬虫豆瓣同城音乐的活动数据
-# csv（已爬虫好）
-保存下来的的豆瓣同城音乐活动数据
-# html
-基本页面
-# jpg
-用词云，把豆瓣电影数据保存下来的图片
+# 3.总文件D3-BubbleSort里不同类型文件的介绍
+# showVideo
+视频文件
+# D3-BubbleSort
+代码文件
+# yuanbo
+截图文件
