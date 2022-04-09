@@ -7,19 +7,20 @@
 # 2.页面展示
     2.1 柱状图效果实现（文件work3_DynamicRect）
 
-![image](界面展示1.png)
+![image](界面展示1.PNG)
 
     2.2 冒泡排序实现（文件work3_BubbleSort）
 
-![image](界面展示2.png)
+![image](界面展示2.PNG)
+    ![image](界面展示3.PNG)
 
     2.3 添加一些小功能（文件work3_AddButton）
 
-![image](界面展示3.png)
+
 
     2.4 综合视图（文件work3_Total）
 
-![image](界面展示4.png)
+![image](界面展示4.PNG)
 
 # 3.总文件test里不同类型文件的介绍
 # css
